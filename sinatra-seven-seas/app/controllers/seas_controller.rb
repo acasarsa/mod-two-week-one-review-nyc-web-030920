@@ -45,4 +45,8 @@ class SeasController < ApplicationController
     redirect to "/seas"
   end
 
+  
+
 end
+
+
